@@ -1,3 +1,3 @@
 function loadHome(){
-   console.log("Loaded page, Index.html") 
+   console.log("Loaded page, Index.html");
 }  
